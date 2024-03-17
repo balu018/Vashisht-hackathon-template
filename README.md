@@ -9,7 +9,7 @@
 Our project aim is to help the farmers who are illiterate, meaning who don't know about what crop to cultivate based on PH value,Temperature, rainfall and other basic values.our project will also be usefull for all farmers regardless,who are hesitating about the type of crop to cultivate.  
 ## Team Details
 `Team number` : VH170
-
+ 
 | Name    | Email           |
 |---------|-----------------|
 | J.Vamshi Krishna | 99210042140@klu.ac.in |
